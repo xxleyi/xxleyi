@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ### 你好，我是西了意 🌱 
 
 I'm currently learning:
-- TS type system
-- React hooks
+- JavaScript
+- TypeScript type system
+- React
 - stack based virtual machine
