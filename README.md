@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 你好，我是西了意 🌱 
+### 你好，我是西来意 🌱 
 
 I'm currently learning:
 - JavaScript
 - TypeScript type system
 - React
-- stack based virtual machine
+- AI-Enhanced Quality Assurance
